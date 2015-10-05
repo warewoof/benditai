@@ -17,3 +17,4 @@ Features of this platform include:
 ![mobile](/screenshots/mobile.png)
 ![responsive web view](/screenshots/sproutworks_web.png)
 ![responsive mobile view](/screenshots/sproutworks_mobile.png)
+![responsive mobile menu](/screenshots/sproutworks_menu.png)
