@@ -15,3 +15,5 @@ Features of this platform include:
 ![main](/screenshots/main.png)
 ![editor](/screenshots/editor.png)
 ![mobile](/screenshots/mobile.png)
+![responsive web view](/screenshots/sproutworks_web.png)
+![responsive mobile view](/screenshots/sproutworks_mobile.png)
